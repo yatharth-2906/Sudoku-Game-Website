@@ -17,7 +17,7 @@ Backtracking is an algorithmic technique whose goal is to use brute force to fin
  - Check a value in a column
  - Check a value in a 9 squared box
  - Find The Solution
- - Reset inputs.
+ - Update The Array
 
 ## Screenshoot
 ![SS-0](https://user-images.githubusercontent.com/97800277/202715346-27fcfd7e-05d8-4604-9ec0-d14f5eb00749.png)
