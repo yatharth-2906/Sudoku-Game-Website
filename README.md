@@ -1,5 +1,6 @@
 # Introduction
-In this report, we present the detailed development and implementation of Simple Sudoku Game. The Sudoku game consists of Graphical User Interface, solver and puzzle generator; implemented using HTML, CSS, JAVA_SCRIPT and CPP. The solver and generator is implemented using Application Program Interface. The solver finds the solution to the puzzles generated.This project gives an insight in to the different aspects of CPP Programming and Web Development.
+In this report, we present the detailed development and implementation of Simple Sudoku Game. The Sudoku game consists of Graphical User Interface, puzzle generator is
+implemented by using HTML, CSS, JAVA-SCRIPT and CPP. The generator is implemented using Application Program Interface. The solver finds the solution to the puzzles generated using Backtracking(Recursive Algorithm).This project gives an insight in to the different aspects of CPP Programming and Web Development.
 
 
 # Algorithm
