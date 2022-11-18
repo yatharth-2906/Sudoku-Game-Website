@@ -7,7 +7,7 @@ implemented by using HTML, CSS, JAVA-SCRIPT and CPP. The generator is implemente
 ![# Backtracking Algorithm](https://www.simplilearn.com/ice9/free_resources_article_thumb/BackTracking%20Algorithm%20-%20Soni/state-space-tree-in-backtracking-algorithm.png)
 Backtracking is an algorithmic technique whose goal is to use brute force to find all solutions to a problem. It entails gradually compiling a set of all possible solutions. Because a problem will have constraints, solutions that do not meet them will be removed.
 
-## Steps of Implementation of Sudoku Solver in C++
+## Steps to Implement the Sudoku Solver in C++
 
 **Now we will need several functions to :**
 
