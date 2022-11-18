@@ -21,3 +21,4 @@ Backtracking is an algorithmic technique whose goal is to use brute force to fin
 
 ## Screenshoot
 ![SS-1](https://user-images.githubusercontent.com/97800277/202714556-5ee933eb-6ba6-426e-a1e4-a816e393bd6b.png)
+![SS-2](https://user-images.githubusercontent.com/97800277/202715191-87716ad3-f79a-40fb-ab5c-c76aa16b4baf.png)
