@@ -20,4 +20,4 @@ Backtracking is an algorithmic technique whose goal is to use brute force to fin
  - Reset inputs.
 
 ## Screenshoot
-[!](www.drive.google.com/file/d/1B2Uw039JICKHOaOwK8oVX2Pmd3e6lUs7/view?usp=sharing)](https://github.com/yatharth-2906/Sudoku-Game-Website/issues/1#issue-1455113426)
+[!]([www.drive.google.com/file/d/1B2Uw039JICKHOaOwK8oVX2Pmd3e6lUs7/view?usp=sharing)](https://github.com/yatharth-2906/Sudoku-Game-Website/issues/1#issue-1455113426](https://user-images.githubusercontent.com/97800277/202714556-5ee933eb-6ba6-426e-a1e4-a816e393bd6b.png))
