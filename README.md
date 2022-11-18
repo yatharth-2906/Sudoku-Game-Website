@@ -10,7 +10,6 @@ Backtracking is an algorithmic technique whose goal is to use brute force to fin
 
 **Now we will need several functions to :**
 
- - Convert Html Table to JS array
  - Check input integer [1-9]
  - Find the next empty position
  - Check a value in a row
