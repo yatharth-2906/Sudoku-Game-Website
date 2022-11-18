@@ -20,3 +20,4 @@ Backtracking is an algorithmic technique whose goal is to use brute force to fin
  - Reset inputs.
 
 ## Screenshoot
+![image]()
